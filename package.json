@@ -1,0 +1,16 @@
+{
+  "name": "hello-paktea",
+  "version": "1.0.0",
+  "description": "have fun ",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/fxthur/hello-paktea.git",
+  "keywords": [
+    "tea"
+  ],
+  "author": "fxthur",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
